@@ -1,0 +1,42 @@
+[
+  {
+    "value": "auto",
+    "label": "Best"
+  },
+  {
+    "value": "sonar",
+    "label": "Sonar"
+  },
+  {
+    "value": "gpt-5.2",
+    "label": "GPT-5.2 (new)"
+  },
+  {
+    "value": "gpt-5.2-thinking",
+    "label": "GPT-5.2 with reasoning"
+  },
+  {
+    "value": "claude-4.5-sonnet",
+    "label": "Claude Sonnet 4.5"
+  },
+  {
+    "value": "claude-4.5-sonnet-thinking",
+    "label": "Claude Sonnet 4.5 with reasoning"
+  },
+  {
+    "value": "gemini-3.0-pro",
+    "label": "Gemini 3 Pro"
+  },
+  {
+    "value": "grok-4.1",
+    "label": "Grok 4.1"
+  },
+  {
+    "value": "grok-4.1-reasoning",
+    "label": "Grok 4.1 with reasoning"
+  },
+  {
+    "value": "kimi-k2-thinking",
+    "label": "Kimi K2 Thinking"
+  }
+]

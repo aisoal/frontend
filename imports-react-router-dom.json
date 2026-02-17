@@ -1,0 +1,11 @@
+[
+  "BrowserRouter",
+  ["Link", "RouterLink"],
+  "Navigate",
+  "Route",
+  "Routes",
+  "useLocation",
+  "useNavigate",
+  "useParams",
+  "useSearchParams"
+]
